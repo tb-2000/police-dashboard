@@ -50,5 +50,6 @@ Live demo of streamlit app (Streamlit Community Cloud):
    cd police-dashboard
 
 3. execute app
+   ```bash
     streamlit run dashboard.py
 
